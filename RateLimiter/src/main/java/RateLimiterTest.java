@@ -1,7 +1,7 @@
 import java.util.concurrent.TimeUnit;
 /**
  *
- * @author aayush
+ * @author Aabhas
  * This is a simple test for a rate limiter.
  * We can build the RateLimitExecutor object and set the following
  * attributes:
